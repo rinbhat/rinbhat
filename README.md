@@ -39,8 +39,6 @@ DNS / DHCP • VLAN • PKI • Storage (Azure NetApp, Isilon, Qumulo, Nasuni)
 **Observability & Monitoring**
 Grafana • Prometheus • Azure Monitor
 
----
-
 ## 🧱 Technologies I Work With
 
 ![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white) 
