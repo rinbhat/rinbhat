@@ -43,14 +43,14 @@ Grafana • Prometheus • Azure Monitor
 
 ## 🧱 Technologies I Work With
 
-Python • JavaScript • Node.js • REST APIs • SQL • HTML/CSS
-Git • GitHub • Jira • Slack
-
-Configuration & Packaging:
-SCCM • Chocolatey • WSUS • Package Management
-
-Virtualization & VDI:
-Citrix • Leostream • HP Anyware • TGX • High-Performance VDI
+![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-cloud-blue?logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-000000?logo=terraform&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-001F54?logo=powershell&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-100%25-black?logo=github&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-EE0000?logo=ansible&logoColor=white)
+![VMware](https://img.shields.io/badge/vmware-607078?logo=vmware&logoColor=white)
+![Intune](https://img.shields.io/badge/intune-0078D4?logo=microsoft&logoColor=white)
 
 ---
 
