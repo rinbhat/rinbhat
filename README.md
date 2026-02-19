@@ -47,7 +47,6 @@ Grafana • Prometheus • Azure Monitor
 ![PowerShell](https://img.shields.io/badge/powershell-001F54?logo=powershell&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-100%25-black?logo=github&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-EE0000?logo=ansible&logoColor=white)
-#![VMware](https://img.shields.io/badge/vmware-607078?logo=vmware&logoColor=white)
 ![Intune](https://img.shields.io/badge/intune-0078D4?logo=microsoft&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?logo=redhat&logoColor=white)
