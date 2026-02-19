@@ -34,7 +34,7 @@ CyberArk • Microsoft Defender • BitLocker
 
 **Infrastructure & Systems**
 Windows Server • Linux / RHEL • SQL • Failover Clustering
-DNS / DHCP • VLAN • PKI • Storage (Qumulo, Nasuni)
+DNS / DHCP • VLAN • PKI • Storage (Azure NetApp, Isilon, Qumulo, Nasuni)
 
 **Observability & Monitoring**
 Grafana • Prometheus • Azure Monitor
