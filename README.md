@@ -50,7 +50,7 @@ Configuration & Packaging:
 SCCM • Chocolatey • WSUS • Package Management
 
 Virtualization & VDI:
-Citrix • Leostream • HP Anyware • High-Performance VDI
+Citrix • Leostream • HP Anyware • TGX • High-Performance VDI
 
 ---
 
