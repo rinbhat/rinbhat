@@ -51,7 +51,8 @@ Grafana • Prometheus • Azure Monitor
 ![Intune](https://img.shields.io/badge/intune-0078D4?logo=microsoft&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?logo=redhat&logoColor=white)
-
+![Azure](https://img.shields.io/badge/Azure%20Cloud-0078D4?logo=microsoftazure&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
 
 
 ---
